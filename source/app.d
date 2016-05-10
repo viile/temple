@@ -1,7 +1,7 @@
 import temple;
 import std.stdio;
 
-version(TempleUnittest):
+//version(TempleUnittest):
 
 const parent = compile_temple!("layout <%= yield %>");
 const child  = compile_temple!(`partial`);
