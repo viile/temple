@@ -1,2 +1,0 @@
-<span>partial</span>
-<%= "<p>Escaped paragraph in partial</p>" %>

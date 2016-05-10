@@ -1,6 +1,0 @@
-<html>
-	<body>
-		Nested template:
-		<%= render!("test3_nested.emd")() %>
-	</body>
-</html>

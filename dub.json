@@ -7,4 +7,5 @@
 	"dependencies": {
 	},
 	"targetType": "executable",
+    "buildRequirements": ["allowWarnings"],
 }
